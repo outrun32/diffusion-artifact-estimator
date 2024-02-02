@@ -164,6 +164,5 @@ images/
 parquets/
 latent_images/
 logs/
-*.png
 wandb/
 csvs/
