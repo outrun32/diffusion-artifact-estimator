@@ -4,6 +4,7 @@
 
 *Spoiler*: The results are pretty bad, there are several reasons for it, which will be named in the end of this file. But mainly, it's because the training sample was too small.
 
+To reproduce the results, start from dataset-collector.ipynb notebook and then go to demo.ipynb notebook.
 
 ### Approach
 
